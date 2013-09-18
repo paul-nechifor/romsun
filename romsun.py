@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 # Nume: Romsun - Generator sunete pentru texte în română.
-# Autor: Paul Nechifor <irragal@gmail.com>
+# Autor: Paul Nechifor <paul@nechifor.net>
 # Inceput: 01.08.2009
 # Terminat: 12.08.2009
 
