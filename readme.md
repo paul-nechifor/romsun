@@ -2,6 +2,8 @@
 
 This is a Romanian text to phoneme converter.
 
+![screenshot](screenshot.png)
+
 Back in 2009 I couldn't find any free text-to-speech library for Romanian, but I
 did find that the [MBROLA speech synthesizer][1] supported reading Romanian
 phonemes so I wrote this to transform Romanian text to the `.pho` files needed
