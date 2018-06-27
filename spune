@@ -1,9 +1,0 @@
-#!/bin/bash
-
-if [ $# -eq 0 ]; then
-	./romsun.py | mbrola ro1 - /tmp/asdf.wav
-else
-	echo "$@" | ./romsun.py | mbrola ro1 - /tmp/asdf.wav
-fi
-
-play /tmp/asdf.wav
